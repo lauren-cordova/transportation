@@ -4,6 +4,11 @@ This repository showcases the technical expertise and innovations my team and I 
 
 ## 📚 Publications
 
+### Interoperable Connected Intersection Monitoring at Scale
+**Authors:** Matt Freyre; Lauren Cordova, CSEP 
+**Summary:** This paper describes Panasonic's implementation of an interoperable, connected intersection monitoring system using V2X technology and the CIRRUS platform. It highlights the use of standardized protocols and real-time data to support safety, efficiency, and system diagnostics across multiple jurisdictions. Case studies in Utah, Arizona, and Georgia demonstrate the system’s scalability and potential for nationwide deployment.  
+[Read more](https://43645300.fs1.hubspotusercontent-na1.net/hubfs/43645300/SMO%20-%20Panasonic%20Smart%20Mobility/PDFs/Interoperable%20Connected%20Intersection/Interoperable%20Connected%20Intersection%20Monitoring_FINAL.pdf)
+
 ### Leveraging V2X Data Insights on Air Quality to Unlock Funding Opportunities (September 2024)
 **Authors:** Grace Mirabito, PhD; Renee Philipp, PhD; Blaine Leonard, PE; Michael Sheffield  
 **Summary:** This paper demonstrates how Vehicle-to-Everything (V2X) data can be utilized to measure and improve air quality, providing a method to quantify air quality impacts and unlock funding opportunities for connected vehicle programs.  

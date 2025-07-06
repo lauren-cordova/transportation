@@ -24,6 +24,11 @@ This repository showcases the technical expertise and innovations my team and I 
 **Summary:** This paper describes Panasonic's implementation of an interoperable, connected intersection monitoring system using V2X technology and the CIRRUS platform. It highlights the use of standardized protocols and real-time data to support safety, efficiency, and system diagnostics across multiple jurisdictions. Case studies in Utah, Arizona, and Georgia demonstrate the system’s scalability and potential for nationwide deployment.  
 [Read more](https://43645300.fs1.hubspotusercontent-na1.net/hubfs/43645300/SMO%20-%20Panasonic%20Smart%20Mobility/PDFs/Interoperable%20Connected%20Intersection/Interoperable%20Connected%20Intersection%20Monitoring_FINAL.pdf)
 
+### How Signal Priority Reduces Bus Idle Time
+**Author:** Candace Smith  
+**Summary:** This paper evaluates the effectiveness of Transit Signal Priority (TSP) systems in reducing bus delays at intersections and improving transit reliability. It highlights Panasonic’s CIRRUS platform, which enables dynamic signal adjustments, such as extending green lights or shortening red phases, to prioritize transit vehicles in real time. The findings demonstrate that TSP can enhance operational efficiency, reduce emissions, and improve rider satisfaction while lowering costs for transit agencies.  
+[Read more](https://43645300.fs1.hubspotusercontent-na1.net/hubfs/43645300/SMO%20-%20Panasonic%20Smart%20Mobility/PDFs/Transit%20Signal%20Priority/Transit-Signal-Priority_FINAL.pdf)
+
 ### Leveraging V2X Data Insights on Air Quality to Unlock Funding Opportunities (September 2024)
 **Authors:** Grace Mirabito, PhD; Renee Philipp, PhD; Blaine Leonard, PE; Michael Sheffield  
 **Summary:** This paper demonstrates how Vehicle-to-Everything (V2X) data can be utilized to measure and improve air quality, providing a method to quantify air quality impacts and unlock funding opportunities for connected vehicle programs.  
@@ -35,18 +40,19 @@ This repository showcases the technical expertise and innovations my team and I 
 [Read more](https://43645300.fs1.hubspotusercontent-na1.net/hubfs/43645300/SMO%20-%20Panasonic%20Smart%20Mobility/PDFs/A%20Toolkit%20for%20Measuring%20Connected%20Vehicle%20Project%20Benefits_FINAL.pdf)
 
 ### Smarter, Safer Roads Start with Real-Time Driver Warnings
-**Authors:** Grace Mirabito, PhD; Renee Philipp, PhD
+**Authors:** Grace Mirabito, PhD; Renee Philipp, PhD  
 **Summary:** This paper explores the real-world impact of connected vehicle technology, specifically focusing on driver warnings that provide real-time alerts for hazards, speed advisories, and emergency situations. Over 90% of vehicle crashes are due to human error, and this paper investigates the impact of warnings on roadway safety and mobility through a proposed framework combining behavioral analytics and system performance metrics to evaluate the effectiveness of these warnings in improving driver response and reducing accidents.  
 [Read more](https://na.panasonic.com/hubfs/SMO%20-%20Panasonic%20Smart%20Mobility/PDFs/TIMS/TIMS_FINAL.pdf?hsLang=en)
 
 ## 🎥 Webinars
 
 ### Implementing Interoperable & Scalable Traffic Events and Warnings (August 2024)
-**Speakers:** Blaine Leonard (UDOT); Kjeld Lindsted (Panasonic); Lauren Cordova (Panasonic)  
+**Presenters:** Blaine Leonard (UDOT); Kjeld Lindsted (Panasonic); Lauren Cordova (Panasonic)  
 **Summary:** This webinar discusses the importance of communicating timely and accurate information to drivers using V2X technologies, sharing lessons learned from Utah's implementation of interoperable and scalable traffic events and warnings.  
 [Watch here](https://itsa.org/event/implementing-interoperable-scalable-traffic-events-and-warnings/)
 
 ### Vehicles Technology for Transit Signal Priority and Preemption (September 2023)
+**Presenters:** Blaine Leonard (UDOT); Jonny Turner (Narwhal Group); Michael Sheffield (WSG); Renee Philipp, PhD (Panasonic); Hal Johnson (UDOT)  
 **Summary:** This webinar explores early benefits realized from deployments of transit signal priority for buses, signal preemption for snow plows, and preemption strategies for emergency vehicles, discussing the technologies and methodologies implemented to enhance transit efficiency and safety.  
 [Watch here](https://youtu.be/gmpbPlay0G0)
 

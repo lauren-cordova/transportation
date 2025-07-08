@@ -1,6 +1,6 @@
 # 🚗 Transportation Technology Insights
 
-This repository showcases the technical expertise and innovations my team and I have driven in advancing large-scale transportation solutions. Our nationwide connected vehicle data platform processes 700 million transactions per day, ingests 300GB of data daily across 200+ datasets, and integrates thousands of IoT devices. Built in under two quarters, this platform has already scaled to over 11,000 transactions per second, delivering real-time insights that power next-generation mobility and safety applications. With two patents pending and multiple industry-recognized publications, our work pushes the boundaries of data processing, connected vehicle intelligence, and transportation technology.
+This repository showcases the technical leadership and innovation driven by my team at the Smart Mobility Office in advancing large-scale transportation systems. In under two quarters, we built a nationwide connected vehicle data platform that now scales beyond 11,000 transactions per second, ingesting 300GB daily across 200+ datasets and integrating thousands of IoT devices. It delivers real-time insights that power next-generation safety and mobility applications. With two patents pending and multiple peer-reviewed publications, our work pushes the boundaries of edge-to-cloud data processing, real-time analytics, and smart transportation technology.
 
 ## 📚 Publications
 
